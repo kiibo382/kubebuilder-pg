@@ -1,4 +1,4 @@
-# k8s-builder-pg
+# kubebuilder-pg
 kubebuilder playground
 
 ## Description
